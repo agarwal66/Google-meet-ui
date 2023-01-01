@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: -8;
+    background-color: aquamarine;
+    color: black;
+}
+
+body{
+    text-justify: auto;
+    background-color: azure;
+    color: whitesmoke;
+    align-content: center;
+    text-align: justify;
+}
+#note{
+    display: flex;
+flex-direction: column;
+text-align: justify;
+padding: 10px;
+}
+
+.logo{
+    display: -webkit-inline-flex;
+    border-radius: 700px;
+    margin-left: 1000px;
+    width: 450px;
+    margin-top: 5px;
+    margin-right: 0px;
+}
+.meet > meet{
+    padding: 0 15px;
+    background-color: #282828;
+    color: darkgrey;
+    margin: 0 6px; 
+}
